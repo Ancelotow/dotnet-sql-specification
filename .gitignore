@@ -1,0 +1,10 @@
+# Builds
+**/obj/
+**/build/
+
+# IDE
+**/.idea/
+**/.vs/
+
+# MacOS
+**/.DS_Store
