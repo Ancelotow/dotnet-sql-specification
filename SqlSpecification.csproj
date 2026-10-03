@@ -10,14 +10,21 @@
         <PackageId>Ancelotow.SqlSpecification</PackageId>
         <Version>0.0.1</Version>
         <Authors>Ancelotow</Authors>
+        <PackageLicenseUrl>LICENSE</PackageLicenseUrl>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <Description>
             - Add specification design pattern      
         </Description>
+        <PackageProjectUrl>https://github.com/Ancelotow/dotnet-sql-specification</PackageProjectUrl>
         <RepositoryUrl>https://github.com/Ancelotow/dotnet-sql-specification</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.12" />
     </ItemGroup>
 
+    <ItemGroup>
+        <None Include="LICENSE" Pack="true" PackagePath="" />
+    </ItemGroup>
 </Project>

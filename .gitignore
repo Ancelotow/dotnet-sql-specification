@@ -1,6 +1,7 @@
 # Builds
 **/obj/
 **/build/
+**/bin/
 
 # IDE
 **/.idea/
