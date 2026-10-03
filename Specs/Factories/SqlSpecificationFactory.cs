@@ -1,4 +1,4 @@
-namespace Ancelotow.DbCore.Performance.Specs.Factories;
+namespace Ancelotow.SqlSpecification.Specs.Factories;
 
 internal class SqlSpecificationFactory
 {

@@ -1,8 +1,7 @@
 ﻿using System.Linq.Expressions;
-using Ancelotow.DbCore.Performance.Specs.Factories;
-using Microsoft.EntityFrameworkCore;
+using Ancelotow.SqlSpecification.Specs.Factories;
 
-namespace Ancelotow.DbCore.Performance.Specs;
+namespace Ancelotow.SqlSpecification.Specs;
 
 internal abstract class SqlSpecificationLogical<T> : ISqlSpecification<T>
 {

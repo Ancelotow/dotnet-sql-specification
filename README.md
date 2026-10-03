@@ -1,4 +1,4 @@
-# .NET - DBCore Performance
+# .NET - SQL Specification
 
 ![Static Badge](https://img.shields.io/badge/license-MIT-orange?logo=MIT)
 
@@ -20,5 +20,5 @@ Work in progress...
 DBCore Perfomance is licensed under the [MIT License](LICENSE).
 
 ## 📫 Contact
-- GitHub : [Ancelotow](https://github.com/ancelotow)
-- Email : [ancelotow@icloud.com](mailto:ancelotow@icloud.com)
+- GitHub: [Ancelotow](https://github.com/ancelotow)
+- Email: [ancelotow@icloud.com](mailto:ancelotow@icloud.com)

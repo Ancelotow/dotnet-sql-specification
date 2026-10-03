@@ -1,6 +1,6 @@
 using System.Linq.Expressions;
 
-namespace Ancelotow.DbCore.Performance.Specs;
+namespace Ancelotow.SqlSpecification.Specs;
 
 internal class AllSqlSpecification<T> : SqlSpecificationLogical<T>
 {

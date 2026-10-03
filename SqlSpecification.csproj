@@ -6,14 +6,14 @@
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>Ancelotow.DbCore.Performance</RootNamespace>
-        <PackageId>Ancelotow.DbCore.Performance</PackageId>
+        <RootNamespace>Ancelotow.SqlSpecification</RootNamespace>
+        <PackageId>Ancelotow.SqlSpecification</PackageId>
         <Version>0.0.1</Version>
         <Authors>Ancelotow</Authors>
         <Description>
-            - Add specification design pattern including INNER JOIN creation            
+            - Add specification design pattern      
         </Description>
-        <RepositoryUrl>https://github.com/Ancelotow/dotnet-db-core-performance</RepositoryUrl>
+        <RepositoryUrl>https://github.com/Ancelotow/dotnet-sql-specification</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
